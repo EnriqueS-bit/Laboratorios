@@ -1,0 +1,9 @@
+Explicación:
+
+- **HTML básico**: El documento comienza con la declaración `<!DOCTYPE html>` y las etiquetas `<html>`, `<head>`, y `<body>`.
+- **Metadatos**: Incluye `charset` y `viewport` para una mejor compatibilidad y diseño adaptable.
+- **Estilos**: Añadidos en la etiqueta `<style>` para mejorar la presentación del formulario.
+- **Formulario**: Contiene campos para nombre, correo electrónico, teléfono, mensaje y país. Todos los campos son obligatorios salvo el teléfono.
+- **Validaciones**: El atributo `required` se usa para asegurar que los campos esenciales no queden vacíos. 
+
+Puedes ajustar el diseño y los campos del formulario según tus necesidades.
